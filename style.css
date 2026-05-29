@@ -426,7 +426,8 @@ ul { list-style: none; }
 @keyframes spin-slow { to { transform: rotate(360deg); } }
 .hero__image-frame {
   position: relative;
-  width: 280px; height: 280px;
+  width: 340px;
+  height: 340px;
   border-radius: 50%;
   background: var(--c-card);
   border: 1px solid var(--c-border-hi);
@@ -447,7 +448,8 @@ ul { list-style: none; }
     width:100%;
     height:100%;
     object-fit:cover;
-    object-position:80% center;
+    object-position:right center;
+    transform:scale(1.35);
     display:block;
 }
 .hero__credential {
