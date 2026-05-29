@@ -440,16 +440,21 @@ ul { list-style: none; }
 .hero__avatar{
     width:100%;
     height:100%;
-    overflow:hidden;
     border-radius:50%;
+    overflow:hidden;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
 }
 
 .hero__avatar img{
     width:100%;
     height:100%;
+
     object-fit:cover;
-    object-position:right center;
-    transform:scale(1.35);
+    object-position:center center;
+
     display:block;
 }
 .hero__credential {
