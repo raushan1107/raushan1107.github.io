@@ -424,7 +424,7 @@ ul { list-style: none; }
   transform: translateX(-50%);
 }
 @keyframes spin-slow { to { transform: rotate(360deg); } }
-.hero__image-frame {
+.hero__image-frame1 {
   position: relative;
   width: 340px;
   height: 340px;
@@ -436,6 +436,13 @@ ul { list-style: none; }
   justify-content: center;
   box-shadow: var(--shadow-glow), inset 0 0 60px rgba(201,168,76,0.03);
   overflow: hidden;
+}
+.hero__image-frame {
+  position: relative;
+  width: 340px;
+  height: 340px;
+  border-radius: 0;
+  overflow: visible;
 }
 .hero__avatar{
     width:100%;
