@@ -1,56 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-  <url>
-    <loc>https://raushan1107.github.io/</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://raushan1107.github.io/#about</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://raushan1107.github.io/#technology</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://raushan1107.github.io/#skillverse</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://raushan1107.github.io/#timeline</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://raushan1107.github.io/#faq</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://raushan1107.github.io/#contact</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-
-</urlset>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Page Not Found — Raushan Ranjan</title>
+  <meta name="robots" content="noindex, follow" />
+  <link rel="stylesheet" href="/assets/css/style.css" />
+  <style>
+    .notfound {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 2rem;
+      gap: 1.5rem;
+    }
+    .notfound__code {
+      font-family: var(--f-display);
+      font-size: 8rem;
+      font-weight: 700;
+      color: var(--c-gold);
+      opacity: 0.3;
+      line-height: 1;
+    }
+    .notfound__title {
+      font-family: var(--f-display);
+      font-size: 2rem;
+      color: var(--c-text);
+    }
+    .notfound__desc { color: var(--c-text-muted); max-width: 400px; }
+  </style>
+</head>
+<body>
+  <div class="notfound">
+    <div class="notfound__code">404</div>
+    <h1 class="notfound__title">Page Not Found</h1>
+    <p class="notfound__desc">The page you're looking for doesn't exist. Head back to learn about Raushan Ranjan and RR Skillverse.</p>
+    <a href="/" class="btn btn--primary">← Back to Home</a>
+  </div>
+</body>
+</html>
