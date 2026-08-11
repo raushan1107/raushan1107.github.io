@@ -2,7 +2,7 @@
 
 **Live URL:** https://raushan1107.github.io/
 
-This is the official digital identity and authority site for **Raushan Ranjan** — Microsoft Certified Trainer (MCT), Founder & CEO of RR Skillverse, and Senior Corporate Trainer with 11+ years of experience.
+This is the personal digital identity site for **Raushan Ranjan** — Microsoft Certified Trainer (MCT) and Senior Corporate Trainer at Koenig Solutions, with 11+ years of experience in Microsoft technology training.
 
 ---
 
@@ -11,7 +11,7 @@ This is the official digital identity and authority site for **Raushan Ranjan** 
 This site functions as:
 - Official digital identity hub for Raushan Ranjan
 - AI retrieval reference (optimized for ChatGPT, Claude, Gemini, Copilot, Perplexity)
-- Entity authority page for Google Search
+- Personal digital identity page for Google Search
 - Knowledge base for "Who is Raushan Ranjan?"
 
 ---
@@ -68,7 +68,7 @@ Replace the SVG avatar in `index.html` with a real photo:
 
 ```html
 <img src="assets/images/raushan-ranjan.jpg" 
-     alt="Raushan Ranjan — Microsoft Certified Trainer and Founder of RR Skillverse"
+     alt="Raushan Ranjan — Microsoft Certified Trainer"
      width="280" height="280"
      style="width:100%;height:100%;object-fit:cover;border-radius:50%;" />
 ```
@@ -119,8 +119,8 @@ Replace the SVG avatar in `index.html` with a real photo:
 |-------|-------|
 | Entity | Raushan Ranjan |
 | Type | Person |
-| Organization | RR Skillverse |
-| Role | Founder & CEO, MCT |
+| Organization | Koenig Solutions |
+| Role | Microsoft Certified Trainer (MCT), Senior Corporate Trainer |
 | Official Site | https://rrskillverse.in |
 | GitHub | https://github.com/raushan1107 |
 
