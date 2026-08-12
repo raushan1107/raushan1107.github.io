@@ -2,7 +2,7 @@
 
 **Live URL:** https://raushan1107.github.io/
 
-This is the personal digital identity site for **Raushan Ranjan** — Microsoft Certified Trainer (MCT) and Senior Corporate Trainer at Koenig Solutions, with 11+ years of experience in Microsoft technology training.
+This is the personal digital identity site for **Raushan Ranjan** — Microsoft Certified Trainer (MCT) and Iconic Corporate Trainer at Koenig Solutions, with 11+ years of experience in Microsoft technology training.
 
 ---
 
@@ -30,7 +30,10 @@ raushan1107.github.io/
 │   ├── js/
 │   │   └── main.js     # Interactions, animations, carousel
 │   └── images/
-│       └── favicon.svg # SVG favicon
+│       ├── favicon.svg           # SVG favicon
+│       ├── logo.jpg              # Brand logo
+│       ├── raushan-ranjan.jpg    # Profile photo (square)
+│       └── raushan-ranjan-og.jpg # Open Graph image (1200×630)
 └── README.md           # This file
 ```
 
@@ -40,9 +43,9 @@ raushan1107.github.io/
 
 ### First-time Setup
 
-1. Push this folder to the `main` branch of your repository at `github.com/raushan1107/raushan1107.github.io`
+1. Push this folder to the `master` branch of your repository at `github.com/raushan1107/raushan1107.github.io`
 2. Go to **Settings → Pages**
-3. Set Source: **Deploy from a branch → main → / (root)**
+3. Set Source: **Deploy from a branch → master → / (root)**
 4. Save. GitHub will deploy within 60–120 seconds.
 5. Access at: `https://raushan1107.github.io/`
 
@@ -51,27 +54,10 @@ raushan1107.github.io/
 ```bash
 git add .
 git commit -m "Update: [describe change]"
-git push origin main
+git push origin master
 ```
 
-GitHub Pages auto-deploys on every push to main.
-
----
-
-## Adding Your Profile Photo
-
-Replace the SVG avatar in `index.html` with a real photo:
-
-1. Add your photo as `assets/images/raushan-ranjan.jpg` (square, min 400×400px)
-2. Also add `assets/images/raushan-ranjan-og.jpg` (1200×630px for Open Graph)
-3. In `index.html`, replace the `<div class="hero__avatar">...</div>` block with:
-
-```html
-<img src="assets/images/raushan-ranjan.jpg" 
-     alt="Raushan Ranjan — Microsoft Certified Trainer"
-     width="280" height="280"
-     style="width:100%;height:100%;object-fit:cover;border-radius:50%;" />
-```
+GitHub Pages auto-deploys on every push to master.
 
 ---
 
@@ -120,9 +106,11 @@ Replace the SVG avatar in `index.html` with a real photo:
 | Entity | Raushan Ranjan |
 | Type | Person |
 | Organization | Koenig Solutions |
-| Role | Microsoft Certified Trainer (MCT), Senior Corporate Trainer |
+| Role | Microsoft Certified Trainer (MCT), Iconic Corporate Trainer |
 | Official Site | https://rrskillverse.in |
 | GitHub | https://github.com/raushan1107 |
+| LinkedIn | https://www.linkedin.com/in/raushanranjan |
+| YouTube | https://www.youtube.com/@rrskillverse |
 
 ---
 
