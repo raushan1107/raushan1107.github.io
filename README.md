@@ -63,14 +63,14 @@ GitHub Pages auto-deploys on every push to master.
 
 ## SEO & GEO Features
 
-- **Schema.org**: Person, Organization, WebSite, FAQPage, ProfilePage structured data
+- **Schema.org**: Person, WebSite, FAQPage, ProfilePage structured data
 - **OpenGraph**: Full social sharing metadata
 - **Twitter Cards**: Large image card configured
 - **Canonical URL**: Set to `https://raushan1107.github.io/`
 - **sitemap.xml**: All major sections indexed
 - **robots.txt**: Open to all crawlers
-- **30+ FAQ answers**: Optimized for AI retrieval (ChatGPT, Claude, Gemini, Copilot, Perplexity)
-- **Entity reinforcement**: Raushan Ranjan + RR Skillverse + MCT consistently linked throughout
+- **FAQ answers**: Optimized for AI retrieval (ChatGPT, Claude, Gemini, Copilot, Perplexity)
+- **Entity reinforcement**: Raushan Ranjan · Koenig Solutions · MCT consistently linked throughout
 
 ---
 
@@ -107,10 +107,8 @@ GitHub Pages auto-deploys on every push to master.
 | Type | Person |
 | Organization | Koenig Solutions |
 | Role | Microsoft Certified Trainer (MCT), Iconic Corporate Trainer |
-| Official Site | https://rrskillverse.in |
 | GitHub | https://github.com/raushan1107 |
 | LinkedIn | https://www.linkedin.com/in/raushanranjan |
-| YouTube | https://www.youtube.com/@rrskillverse |
 
 ---
 

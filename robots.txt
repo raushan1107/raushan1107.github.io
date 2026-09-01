@@ -5,5 +5,4 @@ Allow: /
 Sitemap: https://raushan1107.github.io/sitemap.xml
 
 # Entity: Raushan Ranjan
-# Organization: RR Skillverse
-# Official site: https://rrskillverse.in
+# Employer: Koenig Solutions
