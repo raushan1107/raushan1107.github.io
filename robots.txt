@@ -1,8 +1,2 @@
 User-agent: *
 Allow: /
-
-# Sitemap
-Sitemap: https://raushan1107.github.io/sitemap.xml
-
-# Entity: Raushan Ranjan
-# Employer: Koenig Solutions
